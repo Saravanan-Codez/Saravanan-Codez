@@ -1,6 +1,6 @@
 # Hi 👋, I'm Saravanan S
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-0e75b6?style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=Saravanan-Codez&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Saravanan-Codez)
 
 <p align="left"> <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=Saravanan-Codez"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Saravanan-Codez" alt="Saravanan-Codez-Trophy" /></a> </p>
 
