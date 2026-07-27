@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saravanan-Codez&label=Profile views&color=0e75b6&style=flat" alt="Saravanan-Codez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saravanan-Codez" alt="Saravanan-Codez" /></a> </p>
+<p align="left"> <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=Saravanan-Codez"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Saravanan-Codez" alt="Saravanan-Codez-Trophy" /></a> </p>
 
 - 🔭 I'm currently working on **My Own Language , Falkon**
 
