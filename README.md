@@ -1,28 +1,70 @@
-# Hi 👋, I'm Saravanan S
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Saravanan-Codez&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Saravanan-Codez)
+  # Hi 👋, I'm Saravanan S
 
-<p align="left"> <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=Saravanan-Codez"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Saravanan-Codez" alt="Saravanan-Codez-Trophy" /></a> </p>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+my+own+language%2C+Falkon;Exploring+Java+%26+Systems+Dev;Full-Stack+%26+Open-Source+Enthusiast)
 
-- 🔭 I'm currently working on **My Own Language , Falkon**
+  [![Profile Views](https://komarev.com/ghpvc/?username=Saravanan-Codez&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/Saravanan-Codez)
 
-- 🌱 I'm currently learning **Java**
+</div>
 
-- 📫 How to reach me **assfsaravanan@gmail.com**
+---
 
-- 👨‍💻 All of my projects are available at **[https://saravanan-codes.pages.dev/](https://saravanan-codes.pages.dev/)**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 **Current Focus:** Building my own programming language, **Falkon**
+- 🌱 **Learning:** Deepening my knowledge in **Java** & systems design
+- 👨‍💻 **Portfolio:** Explore my projects at [saravanan-codes.pages.dev](https://saravanan-codes.pages.dev/)
+- 📫 **Reach Me:** [assfsaravanan@gmail.com](mailto:assfsaravanan@gmail.com)
+
+<br />
+
+### 📫 Connect With Me
+
 <p align="left">
-<a href="https://github.com/Saravanan-Codez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Saravanan-Codez" height="30" width="40" /></a>
+  <a href="https://github.com/Saravanan-Codez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://saravanan-codes.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:assfsaravanan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-[![Saravanan's GitHub stats](https://github-stats-extended.vercel.app/api?username=Saravanan-Codez&show_icons=true&locale=en&theme=radical)](https://github-stats-extended.vercel.app/api?username=Saravanan-Codez)
+### 🛠 Languages & Tools
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Saravanan-Codez&show_icons=true&locale=en&layout=compact&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Saravanan-Codez)
+**Languages**
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go,rust,html,css,bash)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanan-Codez&" alt="Saravanan-Codez" /></p>
+**Frameworks & Libraries**
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,electron,flutter,tailwind,qt)](https://skillicons.dev)
 
+**Tools & Databases**
+[![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes,linux,gcp,firebase,mongodb,mysql,sqlite,androidstudio,arduino,blender)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  [![Saravanan's GitHub stats](https://github-stats-extended.vercel.app/api?username=Saravanan-Codez&show_icons=true&locale=en&theme=radical)](https://github-stats-extended.vercel.app/api?username=Saravanan-Codez)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Saravanan-Codez&show_icons=true&locale=en&layout=compact&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Saravanan-Codez)
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Saravanan-Codez&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+<br />
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=Saravanan-Codez&theme=radical&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
