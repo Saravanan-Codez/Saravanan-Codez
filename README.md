@@ -16,7 +16,7 @@
 - 🔭 **Current Focus:** Falkon Language Compiler
 - 🌱 **Learning & Dev:** Java & Systems Architecture
 - 👨‍💻 **Portfolio:** [saravanan-codes.pages.dev](https://saravanan-codes.pages.dev/)
-- 📫 **Contact:** assfsaravanan@gmail.com
+- 📫 **Contact:** saravanan.s.2208@gmail.com
 
 ---
 
