@@ -1,34 +1,45 @@
 <div align="center">
 
-  # Hi, I'm Saravanan S 👋
+# Hi, I'm Saravanan S 👋
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building%20Falkon%20Language%20Compiler;Focusing%20on%20Java%20%26%20Systems%20Architecture)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Building+the+Falkon+Compiler;Exploring+Systems+Architecture+%26+Java;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=Saravanan-Codez&label=Profile%20Views&color=7aa2f7&style=flat-square)](https://github.com/Saravanan-Codez)
-  [![Followers](https://img.shields.io/github/followers/Saravanan-Codez?label=Followers&logo=github&color=3d59a1&style=flat-square)](https://github.com/Saravanan-Codez)
+<p align="center">
+  <a href="https://github.com/Saravanan-Codez">
+    <img src="https://komarev.com/ghpvc/?username=Saravanan-Codez&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Saravanan-Codez?tab=followers">
+    <img src="https://img.shields.io/github/followers/Saravanan-Codez?label=Followers&logo=github&color=3d59a1&style=flat-square" alt="GitHub Followers" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🔭 **Current Focus:** Falkon Language Compiler
-- 🌱 **Learning & Dev:** Java & Systems Architecture
-- 👨‍💻 **Portfolio:** [saravanan-codes.pages.dev](https://saravanan-codes.pages.dev/)
-- 📫 **Contact:** saravanan.s.2208@gmail.com
-
----
-
-## 🛠 Tech Stack
-
-![Skills](https://go-skill-icons.vercel.app/api/icons?perline=9&i=c,cpp,java,py,go,rust,ts,docker,flutter)
+- 🔭 **Current Focus:** Building the **Falkon Language Compiler** & tooling
+- 🌱 **Deep Diving:** Systems architecture, low-level tooling, and robust Java backends
+- 🌐 **Portfolio:** [saravanan-codes.pages.dev](https://saravanan-codes.pages.dev/)
+- 📬 **Reach Out:** [saravanan.s.2208@gmail.com](mailto:saravanan.s.2208@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?perline=9&i=c,cpp,java,py,go,rust,ts,docker,flutter" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Saravanan-Codez&show_icons=true&locale=en&theme=cyberpunk" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saravanan-Codez&layout=compact&theme=cyberpunk" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Saravanan-Codez&show_icons=true&locale=en&theme=cyberpunk" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saravanan-Codez&layout=compact&theme=cyberpunk" alt="Top Languages" />
 </p>
