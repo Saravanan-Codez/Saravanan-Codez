@@ -7,10 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/Saravanan-Codez">
-    <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSaravanan-Codez&count_bg=%237AA2F7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
-</a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Saravanan-Codez.Saravanan-Codez&left_color=gray&right_color=%237aa2f7" alt="Profile Views" />
   </a>
   <a href="https://github.com/Saravanan-Codez?tab=followers">
     <img src="https://img.shields.io/github/followers/Saravanan-Codez?label=Followers&logo=github&color=3d59a1&style=flat-square" alt="GitHub Followers" />
